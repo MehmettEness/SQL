@@ -2,7 +2,8 @@
 ******************* ON-DELETE-CASCADE  **********************
 *************************************************************
 
-CHILD TABLODA ON DELETE CASCADE KOMUTU YAZILMAZSA
+CHILD TABLODA ON DELETE CASCADE 3
++KOMUTU YAZILMAZSA
 
 1-) Child tablo silinmeden Parent tablo silinmeye calisildiginda 
 		PgAdmin Eror verir. Yani Child tablo silinmeden Parent 

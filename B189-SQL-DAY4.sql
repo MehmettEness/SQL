@@ -1,11 +1,6 @@
 --------------DAY'4-------------------
 --23-ALIASES: Etiket/Rumuz --> Tabloya veya sütunlara sorgularımızda geçici isim verebiliriz
 
-
-
-
-
-
 CREATE TABLE workers(
 calisan_id char(9),
 calisan_isim varchar(50),
